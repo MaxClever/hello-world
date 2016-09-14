@@ -1,2 +1,2 @@
 # hello-world
-hello world descrilption
+This readme is for the github example
